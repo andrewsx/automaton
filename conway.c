@@ -11,7 +11,6 @@ void printOutput(char *st);
 int detCount(int i, int j);
 void nextGen(int gen, char *st);
 
-//what if we had set these inside main method
 
 char oldarr[ROW][COL];
 char newarr[ROW][COL];
