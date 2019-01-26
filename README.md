@@ -23,9 +23,4 @@ The program needs two arguments:
 2. A filename of the file that contains the initial matrix. The format of the file is a 10x10
 matrix of integers. Cells at each row are separated by a space. An alive cell is presented
 by a 1, while a dead one is presented by a 0.
-For example, the first generation above is presented in the file as (in the project it will be 10x10):
-0 0 0 0 0
-0 1 1 0 0
-0 0 1 0 0
-0 0 1 0 0
-0 0 0 0 0
+
